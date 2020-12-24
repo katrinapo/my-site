@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kristi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiko&display=swap');
+
+p {
+    font-family: 'Amiko', sans-serif;
+}
+
+.kristiFont {
+    font-family: 'Kristi', cursive;
+    letter-spacing: 0.3em;
+}
+
+.montFont {
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 0.3em;
+}
+.amikoFont {
+    font-family: 'Amiko', sans-serif;
+}
