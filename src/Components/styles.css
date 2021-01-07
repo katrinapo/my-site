@@ -11,6 +11,11 @@ p {
     letter-spacing: 0.3em;
 }
 
+.kristiFont2 {
+    font-family: 'Kristi', cursive;
+    letter-spacing: 0.1em;
+}
+
 .montFont {
     font-family: 'Montserrat', sans-serif;
     letter-spacing: 0.3em;
