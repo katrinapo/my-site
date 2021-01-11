@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/my-site/static/css/main.8f7eedc5.chunk.css",
-    "main.js": "/my-site/static/js/main.4f49f969.chunk.js",
-    "main.js.map": "/my-site/static/js/main.4f49f969.chunk.js.map",
+    "main.js": "/my-site/static/js/main.dc50c6a1.chunk.js",
+    "main.js.map": "/my-site/static/js/main.dc50c6a1.chunk.js.map",
     "runtime-main.js": "/my-site/static/js/runtime-main.4d95c36e.js",
     "runtime-main.js.map": "/my-site/static/js/runtime-main.4d95c36e.js.map",
     "static/css/2.400ad86f.chunk.css": "/my-site/static/css/2.400ad86f.chunk.css",
@@ -14,7 +14,7 @@
     "static/css/2.400ad86f.chunk.css.map": "/my-site/static/css/2.400ad86f.chunk.css.map",
     "static/css/main.8f7eedc5.chunk.css.map": "/my-site/static/css/main.8f7eedc5.chunk.css.map",
     "static/js/2.0487e970.chunk.js.LICENSE.txt": "/my-site/static/js/2.0487e970.chunk.js.LICENSE.txt",
-    "static/media/KatrinaPoFE.c1e9a22a.pdf": "/my-site/static/media/KatrinaPoFE.c1e9a22a.pdf",
+    "static/media/KatrinaPoFrontEndDev.d9f1e032.pdf": "/my-site/static/media/KatrinaPoFrontEndDev.d9f1e032.pdf",
     "static/media/bracket.200ff4e7.png": "/my-site/static/media/bracket.200ff4e7.png",
     "static/media/brew.cfb3f138.png": "/my-site/static/media/brew.cfb3f138.png",
     "static/media/kp.a87daee0.jpg": "/my-site/static/media/kp.a87daee0.jpg",
@@ -27,6 +27,6 @@
     "static/css/2.400ad86f.chunk.css",
     "static/js/2.0487e970.chunk.js",
     "static/css/main.8f7eedc5.chunk.css",
-    "static/js/main.4f49f969.chunk.js"
+    "static/js/main.dc50c6a1.chunk.js"
   ]
 }
