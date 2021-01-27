@@ -3,7 +3,6 @@ import Hero from './Components/Hero'
 import Nav from './Components/Nav';
 import Footer from './Components/Footer';
 import About from './Components/About';
-import Portfolio from './Components/Portfolio';
 import Projects from './Components/Projects';
 
 class App extends React.Component {

@@ -1,6 +1,6 @@
 import React from 'react';
 import './styles.css';
-import resume from './KatrinaPoFE.pdf';
+import resume from './PoKatrinaFrontEndDeveloper2021.pdf';
 
 class Nav extends React.Component {
     render() {
