@@ -5,12 +5,7 @@ import Footer from './Components/Footer';
 import About from './Components/About';
 import Projects from './Components/Projects';
 
-class App extends React.Component {
-  constructor(props) {
-    super(props);
-  }
-
-  render(){
+const App = () => {
     return (
       <div>
         <Nav />
@@ -21,7 +16,6 @@ class App extends React.Component {
         <Footer />
       </div>
     );
-  }
 }
 
 export default App;

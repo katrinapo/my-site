@@ -2,8 +2,8 @@ import React from 'react';
 import youtubeClone from './youtubeclone.png';
 import hiitify from './hiitify.png';
 
-class Projects extends React.Component {
-    render() {
+const Projects = () => {
+  
     return (
         <div>
             <section class="mw7 center avenir">
@@ -42,7 +42,7 @@ class Projects extends React.Component {
             </section>
         </div>
     )
-    }
+    
 }
 
 export default Projects;
