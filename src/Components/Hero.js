@@ -1,7 +1,7 @@
 import React from 'react';
 import tachyons from 'tachyons';
 import './styles.css';
-import image from './kp.jpg';
+import image from './componentImgs/kp.jpg';
 import resume from './PoKatrinaFrontEndDeveloper2021.pdf';
 
 

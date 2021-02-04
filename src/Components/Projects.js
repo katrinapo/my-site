@@ -1,6 +1,6 @@
 import React from 'react';
-import youtubeClone from './youtubeclone.png';
-import hiitify from './hiitify.png';
+import youtubeClone from './componentImgs/youtubeclone.png';
+import hiitify from './componentImgs/hiitify.png';
 
 const Projects = () => {
   

@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Kristi&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amiko&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500&display=swap');
 body {
-  background: url(background.jpg) no-repeat center center fixed; 
+  background: url(componentImgs/background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -15,11 +14,6 @@ p {
 
 .playfairFont {
   font-family: 'Playfair Display', serif;
-}
-
-.kristiFont {
-    font-family: 'Kristi', cursive;
-    letter-spacing: 0.3em;
 }
 
 .montFont {
