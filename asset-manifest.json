@@ -1,30 +1,28 @@
 {
   "files": {
-    "main.css": "/my-site/static/css/main.04c38bc1.chunk.css",
-    "main.js": "/my-site/static/js/main.a94b12bf.chunk.js",
-    "main.js.map": "/my-site/static/js/main.a94b12bf.chunk.js.map",
-    "runtime-main.js": "/my-site/static/js/runtime-main.c152637e.js",
-    "runtime-main.js.map": "/my-site/static/js/runtime-main.c152637e.js.map",
+    "main.css": "/my-site/static/css/main.1ca887a3.chunk.css",
+    "main.js": "/my-site/static/js/main.f8ef6bf9.chunk.js",
+    "main.js.map": "/my-site/static/js/main.f8ef6bf9.chunk.js.map",
+    "runtime-main.js": "/my-site/static/js/runtime-main.97d775c7.js",
+    "runtime-main.js.map": "/my-site/static/js/runtime-main.97d775c7.js.map",
     "static/css/2.400ad86f.chunk.css": "/my-site/static/css/2.400ad86f.chunk.css",
     "static/js/2.16c82703.chunk.js": "/my-site/static/js/2.16c82703.chunk.js",
     "static/js/2.16c82703.chunk.js.map": "/my-site/static/js/2.16c82703.chunk.js.map",
-    "static/js/3.9d6bab27.chunk.js": "/my-site/static/js/3.9d6bab27.chunk.js",
-    "static/js/3.9d6bab27.chunk.js.map": "/my-site/static/js/3.9d6bab27.chunk.js.map",
     "index.html": "/my-site/index.html",
     "static/css/2.400ad86f.chunk.css.map": "/my-site/static/css/2.400ad86f.chunk.css.map",
-    "static/css/main.04c38bc1.chunk.css.map": "/my-site/static/css/main.04c38bc1.chunk.css.map",
+    "static/css/main.1ca887a3.chunk.css.map": "/my-site/static/css/main.1ca887a3.chunk.css.map",
     "static/js/2.16c82703.chunk.js.LICENSE.txt": "/my-site/static/js/2.16c82703.chunk.js.LICENSE.txt",
     "static/media/PoKatrinaFrontEndDeveloper2021.d68b9ac2.pdf": "/my-site/static/media/PoKatrinaFrontEndDeveloper2021.d68b9ac2.pdf",
-    "static/media/styles.css": "/my-site/static/media/background.167fda95.jpg",
+    "static/media/styles.css": "/my-site/static/media/background.8b54494a.jpg",
     "static/media/hiitify.990bd59c.png": "/my-site/static/media/hiitify.990bd59c.png",
     "static/media/kp.a87daee0.jpg": "/my-site/static/media/kp.a87daee0.jpg",
     "static/media/youtubeclone.abe8af65.png": "/my-site/static/media/youtubeclone.abe8af65.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c152637e.js",
+    "static/js/runtime-main.97d775c7.js",
     "static/css/2.400ad86f.chunk.css",
     "static/js/2.16c82703.chunk.js",
-    "static/css/main.04c38bc1.chunk.css",
-    "static/js/main.a94b12bf.chunk.js"
+    "static/css/main.1ca887a3.chunk.css",
+    "static/js/main.f8ef6bf9.chunk.js"
   ]
 }
