@@ -1,20 +1,20 @@
 import React from 'react';
-import Hero from './Components/Hero'
-import Nav from './Components/Nav';
-import Footer from './Components/Footer';
-import About from './Components/About';
-import Projects from './Components/Projects';
+import Home from './components/Home/Home';
+import Portfolio from './components/Portfolio/Portfolio';
+import './App.css';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 
 const App = () => {
     return (
-      <div>
-        <Nav />
-        <Hero name="Katrina Po" header="Front End Developer | JavaScript, React.js"/>
-        <About aboutText="I am a Front End Developer who is passionate about coding modern, user-friendly and aesthetically appealing user interfaces!
-                    When I am not coding I enjoy salsa dancing, music, coffee and fitness ! " />
-        <Projects />
-        <Footer />
-      </div>
+      <Router>
+         <div>
+          <Switch>
+            <Route path ="/" exact component={Home}/>
+            <Route path ="/portfolio" component={Portfolio}/>
+          </Switch>
+        </div>  
+      </Router>
+
     );
 }
 
